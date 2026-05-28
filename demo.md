@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-ehfrugighkgkghkhgi
-=======
-hi guys hello a 
->>>>>>> ankan
+hello all
+
